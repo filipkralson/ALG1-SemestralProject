@@ -2,13 +2,19 @@
 
 **Fakulta mechatroniky, informatiky a mezioborových studií**
 
+
+
 # **SEMESTRÁLNÍ PRÁCE**
 
 ## z předmětu ALG1
 
+
+
 Vypracoval: Filip Král
 
 Datum: 11. 01. 2022
+
+
 
 # Specifikace požadavků
 
